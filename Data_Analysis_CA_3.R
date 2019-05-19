@@ -399,4 +399,3 @@ spearman_test2
 # Both results show that there does appear to be a moderate positive correlation between the RRPI and the ISEQ
 # and the null hypothesis that no correlation exists can be rejected. 
 
-summary(consumer_data)
